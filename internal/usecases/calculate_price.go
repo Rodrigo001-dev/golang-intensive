@@ -1,5 +1,7 @@
 package usecases
 
+import "github.com/Rodrigo001-dev/golang-intensive/internal/entity"
+
 type OrderInputDTO struct {
 	ID string
 	Price float64

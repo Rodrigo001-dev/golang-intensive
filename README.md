@@ -26,6 +26,7 @@ Ex: Quando programamos em JavaScript nós temos o node-modules com milhares de d
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
 <a href="http://golang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Golang-007FFF?style=flat-square&logo=Go&logoColor=white" alt="Golang"> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" alt="Docker"> </a>
 
 ## 💻 Autor
 
