@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/Rodrigo001-dev/golang-intensive/internal/entity"
+	"github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/internal/entity"
 )
 
 type OrderRepository struct {

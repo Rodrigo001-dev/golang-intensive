@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Rodrigo001-dev/golang-intensive/internal/infra/database"
-	"github.com/Rodrigo001-dev/golang-intensive/internal/usecases"
+	"github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/internal/infra/database"
+	"github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/internal/usecases"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	"github.com/Rodrigo001-dev/golang-intensive/pkg/kafka"
-	"github.com/Rodrigo001-dev/golang-intensive/pkg/rabbitmq"
+	"github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/pkg/kafka"
+	"github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

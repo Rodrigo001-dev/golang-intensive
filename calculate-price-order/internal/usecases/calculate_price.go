@@ -1,6 +1,6 @@
 package usecases
 
-import "github.com/Rodrigo001-dev/golang-intensive/internal/entity"
+import "github.com/Rodrigo001-dev/golang-intensive/calculate-price-order/entity"
 
 type OrderInputDTO struct {
 	ID string
