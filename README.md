@@ -1,11 +1,5 @@
 ## :page_with_curl: Projeto
 
-<LINKEDIN>
-Comecei a estudar Golang!
-
-Tá, mas por que Golang?
-</LINKEDIN>
-
 Basicamente porque o Go tem algumas vantagens em relação a outras linguagem, vou sitar as 3 principais na minha opinião:
 
 - Quando as empresas precisam escalar suas operações, para conseguir com que essa escalar aconteça gastando de forma não proporcional os recursos no tamanho dessa escala, é preciso de algo de performance, quanto mais performance tiver, mais escala vai ser possível atingir e o Go oferece performance, de forma geral Go está no topo das linguagens mas rápidas, mais performáticas.
